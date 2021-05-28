@@ -3,6 +3,7 @@ import java.lang.Thread.sleep
 fun main(args: Array<String>) {
     var menuChoice = 0
     do {
+        println()
         println("1) Watch the Night Before the Big Extinction (starring Brad Pitt)-- Type 1")
         println("2) Watch the Last Time We Met (starring Scarlett Johannson)-- Type 2")
         println("3) Watch Darkness and Light (starring Emily Blunt)-- Type 3")
